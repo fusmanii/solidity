@@ -4,6 +4,7 @@ Language Features:
 
 
 Compiler Features:
+* NatSpec: Add support for NatSpec documentation in ``enum`` value definitions.
 
 
 Bugfixes:
